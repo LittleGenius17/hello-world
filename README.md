@@ -1,3 +1,3 @@
 # hello-world
 Welcome to GitHub.
-I just made a cahnge. 
+I just made a change. 
